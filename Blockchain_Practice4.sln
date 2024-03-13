@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockchain_Practice4", "Blockchain_Practice4\Blockchain_Practice4.csproj", "{BEE4A225-0A1E-4AF5-975C-067BC99D0B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE4A225-0A1E-4AF5-975C-067BC99D0B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE4A225-0A1E-4AF5-975C-067BC99D0B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE4A225-0A1E-4AF5-975C-067BC99D0B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE4A225-0A1E-4AF5-975C-067BC99D0B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCB7870-FDEE-4EED-8878-EE79D58059FC}
+	EndGlobalSection
+EndGlobal
